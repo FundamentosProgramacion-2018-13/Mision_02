@@ -11,7 +11,7 @@ distancia_en_7_horas=velocidad*7
 distancia_en_4.5_horas=velocidad*4.5
 tiempo para recorrer 791km=791/velocidad
 
-Analisis:
+Algoritmo:
 Obtener velocidad de usuario y asignarlo a su variable
 Multiplicar por 7 la velocidad y reportarlo
 Multiplicar por 4.5 la velocidad y reportarlo
