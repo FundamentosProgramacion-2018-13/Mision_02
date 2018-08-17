@@ -22,5 +22,5 @@ M = int(input("Numero de Mujeres: "))
 total = H+M
 print("El total de alumnos es: " + str(total))
 Hpor = H/total*100
-print("El porcentaje de hombres es: " + str(Hpor)+"%")
-print("El porcentaje de mujeres es: " + str(100-Hpor)+"%")
+print("El porcentaje de hombres es: " + "{:,.1f}%".format(Hpor))
+print("El porcentaje de mujeres es: " + "{:,.1f}%".format(100-Hpor))
