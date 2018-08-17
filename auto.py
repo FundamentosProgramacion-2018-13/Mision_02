@@ -18,11 +18,10 @@ Multiplicar por 4.5 la velocidad y reportarlo
 Dividir 791 entre la velocidad y reportarlo
 
 """
-velocidad = input("Velocidad del automovil en km/h")
-velocidad = int(velocidad)
-dist_7 = velocidad * 7
+velocidad = float(input("Velocidad del automovil en km/h"))
+dist_7 = velocidad * 7.
 print("Distancia recorrida en 7 horas: " + str(dist_7))
 dist_4_5 = velocidad * 4.5
 print("Distancia recorrida en 4.5 horas: " + str(dist_4_5))
-tiempo791 = 791/velocidad
+tiempo791 = 791./velocidad
 print("Tiempo que toma recorrer 791 km: " + str(tiempo791))
