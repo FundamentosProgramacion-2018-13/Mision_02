@@ -1,5 +1,5 @@
 # Autor: Jesus Zabdiel Sanchez Chavez, A01374964
-# Descripcion: Programa que que muestra mi informacion.
+# Descripcion: Programa que que calcula cierto tiempo y distancia de un automovil con respecto a su velocidad.
 
 # Escribe tu programa después de esta línea.
 
