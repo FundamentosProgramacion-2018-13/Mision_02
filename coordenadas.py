@@ -21,4 +21,8 @@ X2 = float(input("X2:"))
 Y2 = float(input("Y2:"))
 total = ((X2-X1)**2)+((Y2-Y1)**2)
 total = total ** 0.5
+print("X1: " + X1)
+print("Y1: " + Y1)
+print("X2: " + X2)
+print("Y2: " + Y2)
 print("Distancia entre los puntos: " + "{:,.4f}%".format(total))
