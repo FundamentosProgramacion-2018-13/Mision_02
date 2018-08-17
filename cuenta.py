@@ -20,13 +20,13 @@ Multiplicar cuenta por .16, reportar y agregar al total
 Imprimir total
 """
 
-cuenta = int(input("Costo de la comida: "))
-print("Subtotal: " + str(cuenta))
+cuenta = float(input("Costo de la comida: "))
+print("Subtotal: $" + str(cuenta))
 total = cuenta
 propina = cuenta * .13
-print("Propina: " + str(propina))
+print("Propina: $" + str(propina))
 total = total + propina
 iva = cuenta * .16
 total = total + iva
-print("IVA: " + str(iva))
-print("Total de la cuenta: " + str(total))
+print("IVA: $" + str(iva))
+print("Total de la cuenta: $" + str(total))
