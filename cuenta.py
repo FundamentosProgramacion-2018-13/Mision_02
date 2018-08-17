@@ -21,12 +21,12 @@ Imprimir total
 """
 
 cuenta = float(input("Costo de la comida: "))
-print("Subtotal: $" + str(cuenta))
+print("Subtotal: " + '${:,.2f}'.format(cuenta))
 total = cuenta
 propina = cuenta * .13
-print("Propina: $" + str(propina))
+print("Propina: " + '${:,.2f}'.format(propina))
 total = total + propina
 iva = cuenta * .16
 total = total + iva
-print("IVA: $" + str(iva))
-print("Total de la cuenta: $" + str(total))
+print("IVA: " + '${:,.2f}'.format(iva))
+print("Total de la cuenta: " + '${:,.2f}'.format(total))
