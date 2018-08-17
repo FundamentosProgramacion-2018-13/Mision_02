@@ -1,4 +1,4 @@
-# Autor: tuNombreCompleto, tuMatricula
+# Autor: Jesus Zabdiel Sanchez Chavez, A01374964
 # Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
 
 # Escribe tu programa después de esta línea.
