@@ -1,5 +1,5 @@
 # Autor: Jesus Zabdiel Sanchez Chavez, A01374964
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Descripcion: Programa que que muestra mi informacion.
 
 # Escribe tu programa después de esta línea.
 print ("Mi nombre es: Jesus Zabdiel Sanchez Chavez." , "Con matrícula: A01374964")
