@@ -1,5 +1,5 @@
 # Autor: Saúl Figueroa Conde, A01747306
-# Descripcion: Este programa escribe/imprime mi información personal
+# Descripcion: Este programa escribe/imprime mi información personal:
 
 # Escribe tu programa después de esta línea.
 

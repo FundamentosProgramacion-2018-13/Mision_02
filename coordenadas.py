@@ -1,5 +1,5 @@
 #Autor: Saúl Figueroa Conde, A01747306
-# Descripcion: Programa que calcula la distancia entre dos puntos.
+# Descripcion: Programa que calcula la distancia entre dos puntos:
 
 # Escribe tu programa después de esta línea.
 

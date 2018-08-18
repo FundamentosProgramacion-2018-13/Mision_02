@@ -1,5 +1,5 @@
 # Autor: Saúl Figueroa Conde, A01747306
-# Descripcion: Programa que calcula el porcentaje de hombres y mujeres (alumnos) inscritos.
+# Descripcion: Programa que calcula el porcentaje de hombres y mujeres (alumnos) inscritos:
 
 # Escribe tu programa después de esta línea.
 

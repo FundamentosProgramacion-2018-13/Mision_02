@@ -1,5 +1,5 @@
 # Autor: Saúl Figueroa Conde, A01747306
-# Descripcion: Calcula la distancia recorrida por un vehículo con base en la velocidad dada por el usuario.
+# Descripcion: Calcula la distancia recorrida por un vehículo con base en la velocidad dada por el usuario:
 
 # Escribe tu programa después de esta línea.
 

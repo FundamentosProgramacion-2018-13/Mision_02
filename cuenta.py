@@ -1,5 +1,5 @@
 # Autor: Saúl Figueroa Conde, A01747306
-# Descripcion: Calcula el subtotal, propina, IVA y valor total de una comida.
+# Descripcion: Calcula el subtotal, propina, IVA y valor total de una comida:
 
 # Escribe tu programa después de esta línea.
 
