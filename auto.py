@@ -8,6 +8,6 @@ d1 = v * 7
 d2 = v * 4.5
 t = 791/v
 
-print("La distancia recorrida en 7hrs es: %5.1f km" % d1)
-print("La distancia recorrida en 4.5hrs es: %5.1f km" % d2)
-print("El tiempo que se tarda el auto en recorrer 791km es: %5.1f hrs" % t)
+print("La distancia recorrida en 7hrs es: %.1f km" % d1)
+print("La distancia recorrida en 4.5hrs es: %.1f km" % d2)
+print("El tiempo que se tarda el auto en recorrer 791km es: %.4f hrs" % t)
