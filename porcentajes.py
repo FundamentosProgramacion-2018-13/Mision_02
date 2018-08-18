@@ -11,5 +11,4 @@ phombre = (H / talumnos) * 100
 
 print("El total de alumnos es:", talumnos)
 print("El porcentaje de mujeres es: %.1f (%)" % pmujeres)
-print
-
+print("El porcentaje de hombres es: %.1f (%)" % phombres)
