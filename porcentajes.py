@@ -12,5 +12,5 @@ pormuj = ((mujerese) * (100)) / total
 porhom = ((hombrese) * (100)) / total
 
 print("El total de alumnos es: ", total)
-print("El porcentaje de mujeres es: ", pormuj,"%")
-print("El porcentaje de hombres es: ", porhom, "%")
+print("El porcentaje de mujeres es: ", "%.1f"% pormuj,"%")
+print("El porcentaje de hombres es: ", "%.1f"% porhom, "%")

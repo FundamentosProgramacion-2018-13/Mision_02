@@ -14,8 +14,8 @@ resulter3 = 791/int(velocidad)
 
 
 print("Velocidad del auto en km/hr: ", velocidad)
-print("Distancia recorrida en 7 hrs: ", resulter1, "km.")
-print("Distancia recorrida en 4.5 hrs: ", resulter2, "km.")
-print("Tiempo para recorrer 791 km: ", resulter3, "hrs.")
+print("Distancia recorrida en 7 hrs: ", "%.1f"% resulter1, "km.")
+print("Distancia recorrida en 4.5 hrs: ", "%.1f"%  resulter2, "km.")
+print("Tiempo para recorrer 791 km: ", "%.4f"% resulter3,  "hrs.")
 
 
