@@ -1,0 +1,6 @@
+x1 = int(input("Introduzca el valor de x1: "))
+y1 = int(input("Introduzca el valor de y1: "))
+x2 = int(input("Introduzca el valor de x2: "))
+y2 = int(input("Introduzca el valor de y2: "))
+distancia = ((x2 - x1)**2 + (y2 - y1)**2)**(1/2)
+print("Distancia: %.04f" % distancia)
