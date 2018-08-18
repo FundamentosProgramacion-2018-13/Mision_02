@@ -9,4 +9,4 @@ print("Carrera: ITI")
 print("Escuela de Procedencia: Instituto Thomas Jefferson")
 print("""Descripcion
 Me gustan mucho las peliculas de accion, mi favorita es "Rapidos y Furiosos"
-Toda mi vida e hecho algun tipo de deporte.""") 
+Toda mi vida e hecho algun tipo de deporte.""")
