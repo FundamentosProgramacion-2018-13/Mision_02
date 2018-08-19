@@ -1,4 +1,4 @@
-# Autor: luisJonathanRosasRamos, A01377042
+# Autor: luisJonathanRosasRamos, a01377042
 # Descripcion: Obtener la distacia con una velocidad de 115 en el tiempo de 7, 4.5 y el tiempo necesario para recorrer una cantidad de kilometros
 
 # Escribe tu programa después de esta línea.
