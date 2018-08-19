@@ -1,5 +1,5 @@
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Irma Gómez Carmona, A01747743
+# Descripcion: Se debe saber cuanto es el total que se va a pagar por la comida, agregando el iva (15%) y la propina (15%)
 
 # Escribe tu programa después de esta línea.
 
