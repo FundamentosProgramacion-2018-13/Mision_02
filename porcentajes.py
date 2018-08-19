@@ -1,5 +1,6 @@
 # Autor: Irma Gómez Carmona, A01747743
-# Descripcion: Se necesita calcular el porcentaje de hombres y mujeres inscritos, teniendo como referencia el número de hombres y mujeres.
+# Descripcion: Se necesita calcular el porcentaje de hombres y mujeres inscritos, teniendo como referencia el número de hombres y mujeres, 
+#los cuales son introducidos por el usuario.
 
 # Escribe tu programa después de esta línea.
 
