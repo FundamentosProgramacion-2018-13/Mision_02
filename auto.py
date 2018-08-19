@@ -1,5 +1,6 @@
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Irma Gómez Carmona, A01747743
+# Descripcion: Dependiendo de la velocidad de un auto, se debe calcular que distancia recorrerá en 7 y 4.5 horas
+# y el tiempo que tardará en recorrer 791 km.
 
 # Escribe tu programa después de esta línea.
 
