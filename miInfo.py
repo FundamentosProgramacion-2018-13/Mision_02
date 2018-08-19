@@ -1,5 +1,5 @@
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Irma Gómez Carmona, A01747743
+# Descripcion: Mostrar datos específicos sobre mí 
 
 # Escribe tu programa después de esta línea.
 
