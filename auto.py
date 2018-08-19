@@ -3,7 +3,7 @@
 
 # Escribe tu programa después de esta línea.
 
-print (int("¿Con qué velocidad viajó el auto?", v))
+v= input("¿Con qué velocidad viajó el auto?")
 
   v2= v*(5/18)
   t1= 7*3600
