@@ -1,4 +1,6 @@
-
+# Autor: Irma Gómez Carmona, A01747743
+# Descripcion: El usuario especifica las coordenadas de los dos puntos para poder calcular la distancia entre ellas 
+# Escribe tu programa después de esta línea.
 
 
 import math
