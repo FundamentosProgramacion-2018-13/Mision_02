@@ -11,4 +11,4 @@ tiempo = 791 / velocidad
 print(" ")
 print("Distancia recorrida por el auto en 7 h: ", distancia1, "km")
 print("Distancia recorrida por el auto en 4.5 h: ", distancia2, "km")
-print("Tiempo necesario para recorrer 791 km: ", format(tiempo, ".4f"), "horas")
+print("Tiempo necesario para recorrer 791 km: ", format(tiempo, ".1f"), "horas")
