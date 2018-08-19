@@ -1,5 +1,5 @@
 # Autor: Irma Gómez Carmona, A01747743
-# Descripcion: El usuario especifica las coordenadas de los dos puntos para poder calcular la distancia entre ellas 
+# Descripcion: Se deben solicitar las coordenadas de dos puntos para calcular la distancia entre ellos 
 # Escribe tu programa después de esta línea.
 
 
