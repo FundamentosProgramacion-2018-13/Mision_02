@@ -1,4 +1,11 @@
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+v = float(input("Cual fue la velocidad: "))
 
-# Escribe tu programa después de esta línea.
+
+print("Velocidad del auto en Km/h:", v)
+d = v*7
+print("Distancia recorrida en 7 hrs: ", d, "Km")
+di = v+4.5
+print("Distancia recorrida en 4.5 hrs: " ,di, "Km")
+t = 791/v
+print("Tiempo para recorrer 791 km: %5.4f" %(t),"hrs")
+
