@@ -8,6 +8,7 @@ propina = costoComida * 0.13
 IVA = costoComida * 0.15
 total = costoComida + IVA + propina
 
+print("Subtotal: $", format(costoComida, ".2f")
 print("Propina: $", format(propina, ".2f"))
 print("IVA: $", format(IVA, ".2f"))
 print("Total a pagar: $", format(total, ".2f"))
