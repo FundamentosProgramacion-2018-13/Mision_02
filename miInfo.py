@@ -11,4 +11,6 @@ ISC""")
 print ("""Escuela de procedencia:
 Instituto Tepeyac""")
 print ("""Descripcion:
-Me gusta mucho leer y dibujar. Me gusta la tecnologia y estoy interesada en el desarrollo de software y en ciberseguridad.""")
+Me gusta la tecnologia y estoy interesada en el desarrollo de software y en ciberseguridad.
+Tengo muchos libros favoritos, pero si tengo que mencionar uno es Hamlet. Actualmente estoy leyendo a Mario Benedetti.
+Disfruto mucho de viajar y conocer otras culturas, aprender de la historia y costumbres.""")
