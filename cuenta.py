@@ -1,4 +1,4 @@
-# Autor: tuNombreCompleto, tuMatricula
+# Autor: Luis Rcardo Chagala Cervantes, A01376951
 # Descripcion:
 #1.	Leer el costo de la comida.
 #2.	Calcula la propina multiplicando el costo por 13 y dividir el resultado entre 100.
