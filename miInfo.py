@@ -11,4 +11,7 @@ print("ISDR")
 print("Ecuela de procedencia:")
 print("Prepa Tec, programa Multicultural")
 print("Descripción:")
-print("Me gusta todo lo relacionado con la tecnología, en especial la aplicación de esta para resolver cosas. Soy amante de la música y toco varios instrumentos. También me gusta el deporte, he practicado y entrenado de todo.")
+print("""Me gusta todo lo relacionado con la tecnología, 
+en especial la aplicación de esta para resolver cosas.
+Soy amante de la música y toco varios instrumentos.
+También me gusta el deporte, he practicado y entrenado de todo.""")
