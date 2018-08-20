@@ -4,11 +4,11 @@
 
 # Escribe tu programa después de esta línea.
 
-mujer= int (input("No. de mujeres inscritas: "))
-hombre= int (input("No. de hombres inscritos: "))
-totalInscritos =mujer+hombre
-promedioH = hombre*100/totalInscritos
-promedioM = mujer*100/totalInscritos
+Nmujeres= int (input("No. de mujeres inscritas: "))
+Nhombres= int (input("No. de hombres inscritos: "))
+totalInscritos =Nmujeres+Nhombres
+promedioH = Nhombres*100/totalInscritos
+promedioM = Nmujeres*100/totalInscritos
 
 print ("Total de inscritos: %d" % (totalInscritos))
 print ("Porcentaje de mujeres inscritas: %.1f" %(promedioM),"%")
