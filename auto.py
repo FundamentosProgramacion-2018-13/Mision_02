@@ -12,4 +12,3 @@ t = 791/v
 print("En 7 horas el coche recorre", d1,"km")
 print("En 4.5 horas el coche recorre", d2,"km")
 print("A",v,"km/h, el coche tardará", t,"horas en recorrer 791 km")
-

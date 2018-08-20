@@ -1,5 +1,5 @@
 # Autor: Juan Sebastián Lozano Derbez, A01374452
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Descripcion: Calcula la distancia entre dos puntos
 
 # Escribe tu programa después de esta línea.
 
