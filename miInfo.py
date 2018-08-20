@@ -1,4 +1,4 @@
-# Autor: tuNombreCompleto, tuMatricula
+# Autor: Luis Rcardo Chagala Cervantes, A01376951
 # Descripcion:
 #1.	Imprime Nombre: Luis Ricardo Chagala Cervantes
 #2.	Imprime Matricula: A01376951.
