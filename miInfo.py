@@ -1,4 +1,4 @@
-# Autor: Jesús Roberto Herrera Vieyra
+# Autor: Jesús Roberto Herrera Vieyra, A01377230
 # Descripcion: Programa que imprime la información del alumno
 
 # Escribe tu programa después de esta línea.
