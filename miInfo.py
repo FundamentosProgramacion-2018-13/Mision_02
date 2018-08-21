@@ -1,4 +1,4 @@
-# Autor: tuNombreCompleto, tuMatricula
+# Autor: Carlos Badillo García, A01377618
 # Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
 
 # Escribe tu programa después de esta línea.
