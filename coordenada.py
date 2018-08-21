@@ -5,7 +5,7 @@
 #Programa
 
 X1 = int (input("Coordenada en X del punto A:")
-Y2 = int (input("Coordenada en Y del punto A:")
+Y1 = int (input("Coordenada en Y del punto A:")
 X2 = int (input("Coordenada en X del punto B:")
 Y2 = int (input("Coordenada en Y del punto B:")
 
