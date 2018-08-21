@@ -1,3 +1,6 @@
+# Autor: Michelle Sánchez Guerrero, A01376622
+# Descripcion: Programa que calcula cuanta distancia recorre un auto en 7 y 4.5 h, así como el tiempo que necesita para recorrer 791 km.
+
 velocidad = int(input("Velocidad del auto en km/h: "))
 
 distancia7 = velocidad * 7
