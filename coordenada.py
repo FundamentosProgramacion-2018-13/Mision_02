@@ -9,6 +9,6 @@ Y1 = int (input("Coordenada en Y del punto A:")
 X2 = int (input("Coordenada en X del punto B:")
 Y2 = int (input("Coordenada en Y del punto B:")
 
-distancia = (((x2-x1)**2)+((y2-y1)**2)))**1/2
+distancia = (((X2-X1)**2)+((Y2-Y1)**2)))**1/2
 
 print ("Distancia: %5.2f"  %(distancia)
