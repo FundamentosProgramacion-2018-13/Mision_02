@@ -1,3 +1,6 @@
+# Autor: Jesús Roberto Herrera Vieyra, A01377230
+# Descripcion: Programa para calcular la distancia entre dos puntos
+
 x_1 = int(input("primer coordenada de x: "))
 y_1 = int(input("primer coordenada de y: "))
 x_2 = int(input("segunda coordenada de x: "))
