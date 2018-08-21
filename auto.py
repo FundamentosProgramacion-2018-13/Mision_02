@@ -3,7 +3,7 @@
 
 # Escribe tu programa después de esta línea.
 
-velocidadAuto = input float("Velocidad a la que va el carro: ")
+velocidadAuto = float (input("Velocidad a la que va el carro: "))
 
 distanciaSieteHoras = velocidadAuto*7
 distanciaCuatroHoras = velocidadAuto*4.5
