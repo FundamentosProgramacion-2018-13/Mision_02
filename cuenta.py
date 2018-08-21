@@ -10,7 +10,7 @@ propina = comida*0.13
 iva = comida*0.15
 total = comida+propina+iva
 
-print ("Costo de su comida: $", comida)
-print ("Propina: $", propina)
-print ("IVA: $", iva)
-print ("Total a pagar: $", total)
+print ("Costo de su comida: $%4.3f"% (comida))
+print ("Propina: $%4.3f"% (propina))
+print ("IVA: $%4.3f"% (iva))
+print ("Total a pagar: $%4.3f"% (total))
