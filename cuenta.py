@@ -3,7 +3,7 @@
 
 # Escribe tu programa después de esta línea.
 
-subTotal = input float("Precio de la comida: ")
+subTotal = float (input("Precio de la comida: "))
 
 iva = subTotal*.15
 propina = subTotal*.13
