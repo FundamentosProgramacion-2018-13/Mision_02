@@ -1,4 +1,4 @@
-# Autor: Alek Fernando Howland Aguilar
+# Autor: Alek Fernando Howland Aguilar,A01747765
 # Descripcion: Un programa que pregunte al usuario la velocidad a la que viaja un auto (km/h) y calcule diferentes incisos.
 # Escribe tu programa después de esta línea.
 
@@ -18,4 +18,3 @@ print ("Tiempo en que se recorren los 791 km: %.1f " % (C))
 
 print ("."*20)
 
-`
