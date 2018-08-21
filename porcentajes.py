@@ -1,3 +1,6 @@
+# Autor: Michelle Sánchez Guerrero, A01376622
+# Descripcion: Programa que calcula el total de alumnos inscritos, así como el porcentaje de mujeres y hombres inscritos.
+
 mujeres = int(input("Mujeres inscritas: "))
 hombres = int(input("Hombres inscritos: "))
 
