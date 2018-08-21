@@ -1,0 +1,11 @@
+#Carlos Alberto Reyes Ortiz, A01376349
+#Descripción: Calcula la distancia de un punto a otro
+#Código:
+unoX = int(input("x1: "))
+unoY = int(input("y1: "))
+dosX = int(input("x2: "))
+dosY = int(input("y2: "))
+
+distancia = ((dosX - unoX) ** 2 + (dosY - unoY) ** 2) ** (1 / 2)
+
+print("Distancia: ", "{:.4f}" . format(distancia))
