@@ -1,3 +1,7 @@
+# Autor: tuNombreCompleto, tuMatricula
+# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+
+# Escribe tu programa después de esta línea.
 nombre= "Alan Diaz Carrera"
 matricula="A01748150"
 carrera="ISDR"
@@ -15,4 +19,3 @@ print escuela
 print "Descripción:"
 print descripcion1
 print descripcion2
-

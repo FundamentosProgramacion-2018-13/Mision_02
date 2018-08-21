@@ -1,3 +1,7 @@
+# Autor: tuNombreCompleto, tuMatricula
+# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+
+# Escribe tu programa después de esta línea.
 hombres=int(input("Hombres",))
 mujeres=int(input("Mujeres",))
 total=hombres+mujeres

@@ -1,3 +1,7 @@
+# Autor: tuNombreCompleto, tuMatricula
+# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+
+# Escribe tu programa después de esta línea.
 hora1=int(7)
 hora2=float(4.5)
 distancia=int(791)
