@@ -11,7 +11,6 @@ distancia1 = (velocidad*tiempoA)
 distancia2 = (velocidad*tiempoB)
 tiempo = (distancia/velocidad)
 
-
 print("velocidad del auto en km/h: ", velocidad)
 print("Distancia recorrida en 7 hrs. : ", distancia1,"km")
 print("Distancia recorrida en 4.5 hrs. : ", distancia2, "km")
