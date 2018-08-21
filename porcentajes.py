@@ -1,4 +1,10 @@
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+H = int(input("Hombres inscritos: "))
+M = int(input("Mujeres inscritas: "))
 
-# Escribe tu programa después de esta línea.
+total = H + M
+porcentajeH = H * 100/total
+porcentajeM = M * 100/total
+
+print("Total de inscritos: ",total)
+print("Porcentaje de mujeres: ",porcentajeM,"%")
+print("Porcentaje de Hombres: ",porcentajeH,"%")
