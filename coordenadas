@@ -1,0 +1,27 @@
+# Autor: Diego Armando Ayala Hernández A01376727
+
+# Descripcion: Sacar distancia entre dos puntos a apartir de dos coordenadas
+
+
+# Escribe tu programa después de esta línea.
+x1=input("Dame x1")
+y1=input("Dame y1")
+x2=input("Dame x2")
+y2=input("Dame y2")
+x11=int(x1)
+x22=int(x2)
+y11=int(y1)
+y22=int(y2)
+
+
+x= ((x22-x11)**2)
+y=((y11-y22)**2)
+raiz=y+x
+d= raiz**0.5
+
+
+print("X1=",x1)
+print("X2=", x2)
+print("Y1=", y1)
+print("Y2=", y2)
+print("Distancia= %0.4f"%(d) )
