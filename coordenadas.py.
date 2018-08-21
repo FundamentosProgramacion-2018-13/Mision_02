@@ -1,0 +1,16 @@
+ # Autor: Ithan Alexis Pérez Sánchez, A01377717
+ 
+ # Descripción: Calcular la distancia que hay entre 2 puntos
+ 
+ # Escribe tu programa después de esta línea.
+ print("Vamos a calcular la distancia entre dos puntos")
+
+ a = int(input("Ingresa tu primera coordenada: "))
+ b = int(input("Ingresa tu segunda coordenada: "))
+ c = int(input("Ingresa tu tercera coordenada: "))
+ d = int(input("Ingresa tu cuarta coordenada: "))
+
+ D = (c-a)**2+(d-b)**2
+ Distancia = D ** 0.5
+
+ print("Distancia es =: ", Distancia)
