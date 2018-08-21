@@ -9,6 +9,6 @@ distanciaSieteHoras = velocidadAuto*7
 distanciaCuatroHoras = velocidadAuto*4.5
 tiempo = 791/velocidadAuto
 
-print ( "Distancia recorrida en 7 hrs: %5.2f" %(distanciaSieteHoras), "km")
-print ( "Distancia recorrida en 4.5 hrs: %5.2f" %(distanciaCuatroHoras), "km")
-print ( "Tiempo en recorrer 791 km: %5.2f" %(tiempo), "hrs")
+print ( "Distancia recorrida en 7 hrs: %5.1f" %(distanciaSieteHoras), "km")
+print ( "Distancia recorrida en 4.5 hrs: %5.1f" %(distanciaCuatroHoras), "km")
+print ( "Tiempo en recorrer 791 km: %5.4f" %(tiempo), "hrs")
