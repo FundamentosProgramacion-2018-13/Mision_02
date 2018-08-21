@@ -3,8 +3,8 @@
 
 # Escribe tu programa después de esta línea.
 
-mujeres = input int("Cuántas mujeres hay?: ")
-hombres = input int("Cuántos hombres hay?: ")
+mujeres =  int (input("Cuántas mujeres hay?: "))
+hombres = int (input("Cuántos hombres hay?: "))
 
 totalPersonas = mujeres+hombres
 porcentajeMujeres = mujeres*100/totalPersonas
