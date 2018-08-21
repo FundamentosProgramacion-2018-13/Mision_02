@@ -1,8 +1,3 @@
-# Autor: Michelle Sánchez Guerrero, A01376622
-# Descripcion: Programa que calcula el costo total de una comida, incluyendo la propina y el IVA.
-
-# Escribe tu programa después de esta línea.
-
 comida = int(input("Costo de la comida: "))
 
 propina = comida * 0.13
