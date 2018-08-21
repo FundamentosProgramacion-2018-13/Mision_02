@@ -3,12 +3,12 @@
 
 # Escribe tu programa después de esta línea.
 
-subTotal = float (input("Precio de la comida: "))
+subTotal = float (input("Costo de su comida: "))
 
 iva = subTotal*.15
 propina = subTotal*.13
 total = subTotal + iva + propina
 
-print ("IVA:  %5.2f" % (iva))
-print ("Propina:  %5.2f"  %(propina))
-print (" Su total es de $:   %5.2f" %(total))
+print ("IVA $ %5.2f" % (iva))
+print ("Propina $ %5.2f"  %(propina))
+print (" Su total es de $ %5.2f" %(total))
