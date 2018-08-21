@@ -1,8 +1,3 @@
-# Autor: Michelle Sánchez Guerrero, A01376622
-# Descripcion: Un programa que mostrará en la pantalla mi información personal. 
-
-# Escribe tu programa después de esta línea.
-
 print("Nombre:")
 print("Michelle Sánchez Guerrero")
 print("Matricula:")
