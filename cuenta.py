@@ -1,5 +1,6 @@
 # Autor: Javier Alexandro Vargas Sánchez, A01377718
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+"""Descripcion: Con este programa se calcula la propina y el iva con el subtotal, posteriormente, se hace una sumatoria general
+y se obtiene el costo total de la comida"""
 
 # Escribe tu programa después de esta línea.
 costoComida= (int(input("Teclea el subtotal de tu comida:  ")))
