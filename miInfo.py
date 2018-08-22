@@ -1,5 +1,5 @@
 # Autor: Rodolfo Anibal Altamirani Sánchez     A01377949
-# Descripcion: Solo hay que oprimir datos personales que no cambian
+# Descripcion: Solo hay que imprimir datos personales que no cambian
 
 # Escribe tu programa después de esta línea.
 print ("Nombre: Rodolfo Anibal Altamirano Sánchez")
