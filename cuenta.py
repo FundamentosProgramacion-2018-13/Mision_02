@@ -12,7 +12,7 @@ iva = costoComida *.15
 
 costoTotal = propina + iva +costoComida
 
-print("El subtotal fue: ", costoComida)
-print("El Iva fue de:  ", iva)
-print ("Dejaste esta cantidad de propina:  ", propina)
-print ("El costo total de tu comida fue de: ", costoTotal)
+print("El subtotal fue: $", costoComida)
+print("El Iva fue de:  $", iva)
+print ("Dejaste esta cantidad de propina:  $", propina)
+print ("El costo total de tu comida fue de: $", costoTotal)
