@@ -9,7 +9,7 @@ propina = subtotal*0.13
 iva = subtotal*0.15
 total = subtotal+propina+iva
                  
-print("Costo de su comida:",subtotal)
-print("Propina:",propina)
-print("IVA:",iva)
-print("Total a pagar:",total)
+print("Costo de su comida: %.02f" %(subtotal))
+print("Propina: %.02f" %(propina))
+print("IVA: %.02f"%(iva))
+print("Total a pagar:%.02f" %(total))
