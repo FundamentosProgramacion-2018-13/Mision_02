@@ -1,4 +1,4 @@
-# Autor: Rodolfo Anibal Altamirano Sánchez
+# Autor: Rodolfo Anibal Altamirano Sánchez    A01377949
 # Descripcion: Se te da un subtotal y tu debes de calcular IVA, propina y sumarlo todo para tener un totla a pagar
 
 # Escribe tu programa después de esta línea.
