@@ -1,5 +1,5 @@
 # Autor: María Fenanda Vela Calderón, A01377958
-# Descripcion: Calcular distancia y tiempo que viaja el auto
+# Descripcion: Calcular el costo total, la propina y el IVA de la comida.
 
 # Escribe tu programa después de esta línea.
 
