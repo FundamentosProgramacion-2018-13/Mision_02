@@ -1,5 +1,5 @@
 # Autor: Carlos Badillo García, A01377618
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Descripcion: Codigo que imprime la información que le proporcione sobre mi.
 
 # Escribe tu programa después de esta línea.
 
