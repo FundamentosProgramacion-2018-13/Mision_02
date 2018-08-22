@@ -8,8 +8,6 @@ numeroHombres = int(input("Ingrese el número de hombres inscritos: "))
 totalInscritos = numeroHombres + numeroMujeres
 porcentajeHombres = (numeroHombres/totalInscritos)*100
 porcentajeMujeres = (numeroMujeres/totalInscritos)*100
-print("Mujeres inscritas: ", numeroMujeres)
-print("Hombres inscritos: ", numeroHombres)
 print("Total de inscritos: ", totalInscritos)
 print("Porcentaje de mujeres: ", porcentajeMujeres, "%")
 print("porcentaje de hombres: ", porcentajeHombres, "%")
