@@ -1,5 +1,5 @@
 # Autor: Daniel Córdova Bermúdez, A01377242
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Descripcion: El programa muestra datos básicos de una persona. 
 
 print("Nombre:")
 print("Daniel Córdova Bermúdez.")
