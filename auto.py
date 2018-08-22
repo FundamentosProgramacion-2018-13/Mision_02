@@ -1,5 +1,6 @@
 # Autor: Alberto Contreras Torres, A01748151
 # Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+Escribe un programa que pregunte al usuario la velocidad a la que viaja un auto (km/h) y calcule e imprima lo siguiente:
 •	La distancia en km. que recorre un cohe en 7 hrs.
 •	La distancia en km. que recorre un coche en 4.5 hrs.
 •	El tiempo en horas que requiere un cohce para recorrer 791 km.
