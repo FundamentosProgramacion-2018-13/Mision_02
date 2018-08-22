@@ -1,5 +1,6 @@
 # Autor: Alberto Contreras Torres, A01748151
 # Descripcion: Escribe un programa que muestre en la pantalla la siguiente información:
+Escribe un programa que muestre en la pantalla la siguiente información:
 •	Tu nombre completo.
 •	Tu matrícula.
 •	Tu carrera.
