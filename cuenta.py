@@ -1,4 +1,17 @@
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: María Fenanda Vela Calderón, A01377958
+# Descripcion: Calcular el costo total, la propina y el IVA de la comida.
 
 # Escribe tu programa después de esta línea.
+
+costo = int( input( "Escribe el costo de la comida: "))
+
+propina = costo*0.13
+
+iva = costo*0.15
+
+total = costo + propina + iva
+
+print( "Costo de su cominda: $ %9.02f" % costo)
+print( "Propina: $ %9.02f" % propina)
+print( "IVA: $ %9.02f" % iva)
+print( "Total a pagar: $ %9.02f" % total)
