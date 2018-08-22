@@ -1,8 +1,12 @@
 # Autor: Rodolfo Anibal Altamirani Sánchez     A01377949
-# Descripcion: se te da la distancia y el tiempo, y se tiene que calcular la velocidad a la que se mueve el auto
+# Descripcion: Solo hay que oprimir datos personales que no cambian
 
 # Escribe tu programa después de esta línea.
-d = float(input("km recorridos: "))
-t = float(input("horas recorridas: "))
-v = d/t
-print("Tu velocidad es de %.2f:"%v,"km/h")
+print ("Nombre: Rodolfo Anibal Altamirano Sánchez")
+print ("Matricula:A01377949")
+print("Carrera: Ingenieria en Sistemas Computacionales")
+print("Preparatoria de procedencia: PrepaTec, programa Bicultural")
+print("Caracteristicas: Soy muy hiperactivo por lo que me desvió muy fácilmente de mis "
+      "objetivos, pero usualmente el mantenerme con audífonos me ayuda a enfocarme. "
+      "Realizo muchas actividades deportivas y artísticas como dibujar, pintar producir "
+      "música, parkour, correr")
