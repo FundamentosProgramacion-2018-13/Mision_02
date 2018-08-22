@@ -6,7 +6,6 @@ totalComida = int(input("Escriba el total de su comida: "))
 propina = totalComida*0.13
 iva = totalComida*0.15
 total_a_Pagar = totalComida + propina + iva
-print("Costo de su comida: ", totalComida)
 print("Propina: $", propina)
 print("IVA: $", iva)
 print("Total a pagar: $", total_a_Pagar)
